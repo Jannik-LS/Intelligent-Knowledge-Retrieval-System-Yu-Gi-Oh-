@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+pandas
+weaviate-client
+transformers
+sentence-transformers
+ollama
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
